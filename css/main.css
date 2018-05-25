@@ -1,0 +1,57 @@
+body {
+    
+}
+
+.central_text {
+    text-align: center;
+}
+
+
+.comic {
+    font-family: "Comic Sans MS";
+    color: pink;
+    font-size: 30px;
+    text-align: center;
+}
+
+
+h5 {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+
+.img_central {
+    width: 300px;
+}
+
+
+.block1 {
+    background-color: cornflowerblue;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    
+}
+
+.nav-wrapper {
+    background-color: #1E88E5;
+        
+}
+
+.desenho{
+    width: 100%;
+}
+
+.logo {
+    padding-left: 10px;
+    padding-top: 10px
+}
+
+.desc{
+    text-align: center;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
